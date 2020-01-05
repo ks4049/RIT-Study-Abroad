@@ -1,0 +1,149 @@
+{"Question": {
+	"Which language do you prefer?": ["English", "French"]
+	},
+"English": {
+	"Degree Level": ["Graduate", "Undergraduate"]
+	},
+"French": {
+	"Do you prefer France or others?" : ["France", "Other than France"]
+},
+"France":{
+	"Do you prefer Paris or Toulouse?": ["Paris","Toulouse"]
+},
+"Paris":{
+	"Do you prefer Summer or Academic year?": ["Summer term","Academic year"]
+},
+"Summer term": {
+	"Provider Preferences": ["Summer CIS Abroad", "Summer SUNY Oswego"]
+},
+"Academic year":{
+	"Do you prefer French studies or French arts?":["French studies","French Arts"]
+},
+"Toulouse": {
+	"Do you prefer Toulouse language or Toulouse Business?": ["Toulouse language","Toulouse Business"]
+},
+"Other than France":{
+	"Do you like handicrafts or food?": ["French handicrafts", "French Food"]
+},
+"French handicrafts": {
+	"Do you like musical culture or Arabic language?": ["Musical Culture", "Arabic language"]
+},
+"Arabic language":{
+	"Program provider": ["CIEE","IES Abroad"]
+},
+"French Food":{
+	"Do you prefer liberal arts or international relations?": ["Liberal Arts", "International Relations"]
+},
+"International Relations": {
+	"Do you prefer summer or academic year?":["Summer Business program", "Academic Business program"]
+},
+"Liberal Arts":"Advanced Liberal Arts",
+"Advanced Liberal Arts":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=41f6e58309aa015c141ac3b4f4f03b50",
+"Summer Business program": "Summer Business, Communications & Culture",
+"Summer Business, Communications & Culture":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e66b8ddc24cbdeda9159492dda026489",
+"Academic Business program": "Business and International Relations",
+"Business and International Relations":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=caf4973f8057a4731e0a58662fabef80",
+"Musical Culture":"Development Studies - Senegal",
+"Development Studies - Senegal": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=47ffc9b6f7c8c1ead777872c583215d8",
+"CIEE": "Rabat-Language & Culture",
+"Rabat-Language & Culture": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=3cf1665d69059cb8eb80a4d76271ec3e",
+"IES Abroad": "Rabat-Study in Rabat",
+"Rabat-Study in Rabat": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=f9aa95dc2e1f6285957854bc1ed03ad3",
+"Toulouse language": "Language & Culture in Toulouse",
+"Language & Culture in Toulouse": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=687ad81387cea0b0b998631a49546336",
+"Toulouse Business":{
+	"Duration Preferences": ["One semester", "Toulouse summer"]
+},
+"Toulouse summer": "Summer Business & Culture in Toulouse",
+"Summer Business & Culture in Toulouse":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=c5ecbd9f268ba10a7985bc926fda89fb",
+"One semester": "Business & Culture in Toulouse",
+"Business & Culture in Toulouse":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=5278104872ee646167c5a82d2b48d40b",
+"French studies": "French & Critical Studies in Paris",
+"French & Critical Studies in Paris": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=a61b3ee4ce0279e53362bf7ad38f9985",
+"French Arts": "Paris College of Art",
+"Paris College of Art": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=dc5aa4e4b290cfe7c159cb2198d45afa",
+"Summer SUNY Oswego": "SUNY at the Sorbonne- Summer",
+"SUNY at the Sorbonne- Summer" : "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=c9adee3471843387cff918e2b86a5739",
+"Summer CIS Abroad":"Summer in Paris - Language & Culture",
+"Summer in Paris - Language & Culture":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0d24553dcf436d0cdb5a2f8e247aac82",
+"Undergraduate": {
+	"Do you prefer urban or rural areas?" : ["Urban", "Rural"]
+	},
+"Urban": {
+	"Do you prefer Spanish/German?": ["Spanish","German"]
+},
+"Spanish":{
+	"Do you prefer Politics/Tourism?": ["Politics","Tourism"]
+},
+"German":{
+	"Do you prefer design/economics?": ["Design", "Economics"]
+},
+"Rural":{
+	"Do you prefer Asia/Africa?": ["Asia","Africa"]
+},
+"Asia":{
+	"Do you prefer South Asia/East Asia?":["South Asia","East Asia"]
+},
+"Africa":{
+	"Do you prefer entrepreneurship or Arts?": ["Entrepreneurship", "Arts"]
+},
+"Entrepreneurship": "Arcadia in Cape Town",
+"Arts": "Arts & Sciences",
+"Arts & Sciences":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=af59fc0200f20bc32c77f3165b6429d9",
+"Arcadia in Cape Town": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=1540ae328c13a7e03372afd7a3b631f3",
+"South Asia": "Big Cats of the Himalayas: Tracking & Conservation",
+"East Asia": "China in a Global Context",
+"China in a Global Context":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=937fa62e4072a04dd51cf25e161a68ad",
+
+"Big Cats of the Himalayas: Tracking & Conservation": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ddbf516c2873f7087f3d631ca7f239a2",
+"Design":"Design in Dessau",
+"Design in Dessau": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ab3ca647d104c4096223c008cbba9b3c",
+"Economics": "Business & Culture",
+"Business & Culture": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=b68503e3eb09445b1f94a8f7793c0767",
+"Politics":"Barcelona - Political Science & International Relations",
+"Barcelona - Political Science & International Relations":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=c24e9f412e3b358c149de9cdd8aa4248",
+"Tourism": "Business & Tourism",
+"Business & Tourism":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=d02c0087ba9ecfe63b6051df6fa11989",
+
+"Graduate":{
+	"Do you prefer expensive or cheap program?" :  ["Cheap program","Expensive program"]	
+},
+"Cheap program":{
+	"Are you research-oriented or industry-oriented?": ["Research-oriented", "Industry-oriented"]
+},
+"Research-oriented": {
+	"Do you prefer Engineering or Science?": ["Engineering Research", "Science Research"]
+},
+"Expensive program": {
+	"Do you prefer technology or non-technology?": ["Technology", "Non-Tech"]
+},
+"Technology": {
+	"Do you prefer health-care/game design/imaging?": ["Health-care", "Game design", "Imaging Science"]
+},
+"Non-Tech" : {
+	"Do you prefer cultural studies or photography?": ["Cultural studies", "Photography", "Finance"]
+},
+"Cultural studies":"Explore Croatia: Culture, History & Ecology",
+"Explore Croatia: Culture, History & Ecology": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0c84a28cc0b7282f27fad5258fde751a",
+"Photography": "Photography in Cuba",
+"Photography in Cuba": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=74dd757c631f5411d7b36e2a2d2208e1",
+"Finance": "Financing New Ventures in Beijing",
+"Financing New Ventures in Beijing": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ab5306da625fe2e2d103b3d1240702d6",
+"Health-care": "Global Health Systems Analysis and Innovation",
+"Game design": "Game Design and Development - Germany",
+"Game Design and Development - Germany": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=da1aa1063bdc88e4265b1b9a485b7c8d",
+"Imaging Science": "Eindhoven University of Technology",
+"Eindhoven University of Technology":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=d3020f556f50fee2163c7f5d3d368fb4",
+"Global Health Systems Analysis and Innovation":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=b0d5716b1a0403e1fa0a1c5ebff1d954", 
+"Engineering Research":"Engineering Design and Innovation for Local Impact - Colombia",
+"Engineering Design and Innovation for Local Impact - Colombia": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=5cefb0002dec63a759c3caab5fe70fcf",
+"Science Research":"NSF Research Experience - Germany",
+"NSF Research Experience - Germany": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e3b8a092a4721375c2de7038d8181a2b",
+"Industry-oriented": {
+	"Do you prefer Italy or England?": ["Italy", "England"]
+},
+"Italy": "Syracuse University Global Programs - Summer",
+"England": "Syracuse University - London",
+"Syracuse University Global Programs - Summer": "http://suabroad.syr.edu/florence/",
+"Syracuse University - London": "http://sulondon.syr.edu/"
+}

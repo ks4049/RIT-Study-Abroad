@@ -1,0 +1,38 @@
+{"Question": {
+	"Do you prefer cities/nature?": ["Cities", "Nature"]
+},
+"Cities":{
+	"Do you prefer Arabic or Spanish?": ["Arabic", "Spanish"]
+}, 
+"Arabic" : {
+	"Do you prefer ancient or new cities?": ["Ancient Cities", "New Cities"]
+},
+"Spanish":{
+	"Do you prefer humanities or science?": ["Humanities", "Science"]
+},
+"Nature":{
+	"Do you prefer mountains or islands?": ["Mountains", "Islands"]
+},			
+"Mountains":{
+	"Do you prefer South America or Asia?": ["South America", "Asia"]
+},
+"Islands": {
+	"Do you prefer Carribean or South Pacific?":["Carribean", "South Pacific"]	
+},
+"Ancient Cities": "Middle East Studies",
+"New Cities": "RIT Dubai Enroll",
+"Humanities": "Advanced Liberal Arts - Barcelona",
+"Science" : "Santiago - Health Studies",
+"South America": "Semester in Cusco - Universidad San Ignacio Loyola",
+"Asia": "Big Cats of the Himalayas: Tracking & Conservation",
+"Carribean": "Marine Resource Studies",
+"South Pacific": "Protecting Phoenix Islands",
+"Advanced Liberal Arts - Barcelona":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=473cb41401b20b3d91b31432e80e8e4f",
+"Santiago - Health Studies": "https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=89894ba735af3935a4611a2205fff648",
+"Middle East Studies":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0f30e6c7e993fafeda90e8dde9b83467",
+"RIT Dubai Enroll":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=0e062b2cfb65db2f6778cd26aad9311d",
+"Semester in Cusco - Universidad San Ignacio Loyola":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ae8939c42459a2b58f247a8e2cff284b",
+"Big Cats of the Himalayas: Tracking & Conservation":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=ddbf516c2873f7087f3d631ca7f239a2",
+"Marine Resource Studies":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=e66910d6fcad2576bea3f4a4dcef3897",
+"Protecting Phoenix Islands":"https://rit-horizons.symplicity.com/index.php?s=programs&mode=form&id=1008cf2cf5051059f9138d0787a23388"
+}
